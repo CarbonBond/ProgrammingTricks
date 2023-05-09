@@ -1,1 +1,1 @@
-A collection of interesting tips and tricks.
+A collection of interesting tips and tricks. Following multiple books.
